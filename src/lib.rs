@@ -2,7 +2,7 @@
 #![no_std]
 
 
-extern crate collections;
+pub extern crate collections;
 
 
 #[macro_export]
