@@ -3,4 +3,11 @@ name = "concat_string"
 version = "0.1.0"
 authors = ["nathanfaucett <nathanfaucett@gmail.com>"]
 
+keywords = ["concat_string"]
+description = "concat string"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/nathanfaucett/rs-concat_string.git"
+homepage = "https://github.com/nathanfaucett/rs-concat_string"
+
 [dependencies]
