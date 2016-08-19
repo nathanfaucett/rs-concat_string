@@ -15,9 +15,3 @@ macro_rules! concat_string {
         }
     )
 }
-
-#[test]
-fn test_concat_string() {
-    let s = concat_string!("a", "b", "c");
-    assert_eq!(&s, "abc")
-}
